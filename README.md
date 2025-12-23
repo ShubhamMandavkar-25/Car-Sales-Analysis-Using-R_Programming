@@ -28,19 +28,24 @@ datatype conversion, feature engineering, and data visualization.
 
 ## 🖼 Visualization Preview
 
-### Horsepower vs Car Price
+### Number of Car Sales by Company
 <p align="center">
-  <img src="screenshots/hp_vs_price.png" width="700">
+  <img src="Bar_Chart.PNG" width="700">
 </p>
 
-### Speed vs Car Price
+### Car count by HorsePower
 <p align="center">
-  <img src="screenshots/speed_vs_price.png" width="700">
+  <img src="Histogram.PNG" width="700">
 </p>
 
-### Company-wise Price Distribution
+### HorsePower vs TotalSpeed
 <p align="center">
-  <img src="screenshots/company_price_dist.png" width="700">
+  <img src="ScatterPlot.PNG" width="700">
+</p>
+
+### Performance by Engines
+<p align="center">
+  <img src="Box_Plot.PNG" width="700">
 </p>
 
 
@@ -52,6 +57,7 @@ Car-Sales-Analysis-Using-R
 ├── data
 ├── scripts
 ├── outputs
+├── visualization
 └── README.md
 
 
